@@ -1,3 +1,11 @@
+![](purple_bullets_in_space.gif)
+
+
+
+
+
+
+
 # Purple-Bullets-in-Space
 About: A simple side-scrolling game made similar to other bullet hell games in the Genre. It has
 two modes normal and ludicrous to test various means of difficulty increase through spawn numbers.
