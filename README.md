@@ -6,6 +6,6 @@ I did use free assets as well, credits below.
 
 ----Credits:
 Unity Tutorial: Create with Code https://learn.unity.com/course/create-with-code
-Deep Space Skybox Pack: Sean Duffy https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056
+Deep Space Skybox Pack: SEAN DUFFY https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056
 Skybox Series Free: AVIONX https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
 2D Space Kit: Brett Gregory https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662
